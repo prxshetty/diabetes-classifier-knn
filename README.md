@@ -1,6 +1,6 @@
 # Diabetes Prediction
 
-This project builds a machine learning model to predict whether a person has diabetes based on diagnostic measurements.
+This College Project builds a machine learning model to predict whether a person has diabetes based on diagnostic measurements.
 
 ## Data
 
